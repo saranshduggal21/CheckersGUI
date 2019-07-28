@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Options
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=C
+comment2.target=void\ close(javax.sound.sampled.Clip)
+comment3.params=
+comment3.target=Options()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=path
+comment5.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+numComments=6

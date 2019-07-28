@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Instructions2
+comment1.params=
+comment1.target=Instructions2()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=path
+comment3.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+numComments=4

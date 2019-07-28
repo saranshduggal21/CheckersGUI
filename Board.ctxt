@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=row\ col
+comment2.target=boolean\ inBounds(int,\ int)
+comment3.params=row\ col
+comment3.target=Square\ getSquare(int,\ int)
+comment4.params=
+comment4.target=void\ placeStartingPieces()
+comment5.params=p
+comment5.target=java.util.Vector\ getPossibleMoves(Piece)
+comment6.params=p\ doHighlight
+comment6.target=void\ setMovesHighlighted(Piece,\ boolean)
+comment7.params=from\ to
+comment7.target=boolean\ move(Square,\ Square)
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=c\ myrow\ mycol
+comment1.target=Square(Square.BackgroundColor,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ isOccupied()
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getCol()
+comment5.params=
+comment5.target=Square.BackgroundColor\ getBackgroundColor()
+comment5.text=Get\ the\ background\ color\ of\ this\ Square
+comment6.params=
+comment6.target=Piece\ getOccupant()
+comment7.params=doHighlight
+comment7.target=void\ setHighlight(boolean)
+comment8.params=visitor
+comment8.target=void\ setOccupant(Piece)
+comment9.params=g
+comment9.target=void\ paint(java.awt.Graphics)
+numComments=10
