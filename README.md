@@ -13,3 +13,4 @@ THE ONLY RELEVANT FILES TO DOWNLOAD ARE:
 2. The '.java' files (DO NOT DOWNLOAD THE OTHER ONES (.ctxt, .class, etc.).
 3. The music file (Music.wav).
 
+This code can be run in which ever Java IDE is preferred.
