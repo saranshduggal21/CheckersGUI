@@ -10,7 +10,7 @@ Password: CookitCS
 
 THE ONLY RELEVANT FILES TO DOWNLOAD ARE: 
 1. The images (png's, jpg's, gif's, etc.)
-2. The '.java' files (DO NOT DOWNLOAD THE OTHER ONES (.ctxt, .class, etc.).
+2. The '.java' files (There is no point in downloading the other files (.ctxt, etc.)).
 3. The music file (Music.wav).
 
-This code can be run in which ever Java IDE is preferred.
+This code can be run in which ever JDE is preferred, however, this game was made using BlueJ's JDE. 
