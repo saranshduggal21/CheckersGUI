@@ -5,7 +5,7 @@ using the built-in Swing library, for the game of Checkers. It is a 2-player gam
 music, a login page with a username & password, and much more!
 
 LOGIN INFORMATION:
-Username: CSClass
+Username: CSClass, and the 
 Password: CookitCS
 
 THE ONLY RELEVANT FILES TO DOWNLOAD ARE: 
